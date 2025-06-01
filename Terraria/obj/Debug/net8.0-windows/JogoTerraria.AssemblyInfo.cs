@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JogoTerraria")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+31ba402af5a2514c1136343f92e1531692e16e81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e9abb8332054649fd994572e14a547fc766e2eb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("JogoTerraria")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JogoTerraria")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
