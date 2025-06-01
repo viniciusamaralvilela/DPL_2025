@@ -77,14 +77,6 @@ Quer sugerir melhorias, corrigir algo ou adicionar conteúdo?
 
 ---
 
-### 📥 Clonando o projeto
-
-```bash
-git clone https://github.com/viniciusamaralvilela/DPL_2025.git
-cd DPL_2025
-
----
-
 ## 🧑‍🏫 Autor
 
 Desenvolvido por **Vinícius Amaral Vilela**  
