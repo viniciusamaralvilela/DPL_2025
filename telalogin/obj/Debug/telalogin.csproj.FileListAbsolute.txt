@@ -1,0 +1,11 @@
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\bin\Debug\telalogin.exe.config
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\bin\Debug\telalogin.exe
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\bin\Debug\telalogin.pdb
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.csproj.AssemblyReference.cache
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.Form1.resources
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.Properties.Resources.resources
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.csproj.GenerateResource.cache
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.csproj.CoreCompileInputs.cache
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.exe
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.pdb
+C:\Users\Quinta Valentina\source\repos\telalogin\telalogin\obj\Debug\telalogin.tela_de_cadastro.resources
