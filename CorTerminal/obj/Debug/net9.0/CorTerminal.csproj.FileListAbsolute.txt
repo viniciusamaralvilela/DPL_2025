@@ -1,0 +1,15 @@
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\bin\Debug\net9.0\CorTerminal.exe
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\bin\Debug\net9.0\CorTerminal.deps.json
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\bin\Debug\net9.0\CorTerminal.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\bin\Debug\net9.0\CorTerminal.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\bin\Debug\net9.0\CorTerminal.pdb
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.sourcelink.json
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\refint\CorTerminal.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.pdb
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\CorTerminal.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\CorTerminal\obj\Debug\net9.0\ref\CorTerminal.dll

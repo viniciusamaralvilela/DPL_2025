@@ -1,0 +1,15 @@
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\bin\Debug\net9.0\34DS.exe
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\bin\Debug\net9.0\34DS.deps.json
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\bin\Debug\net9.0\34DS.runtimeconfig.json
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\bin\Debug\net9.0\34DS.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\bin\Debug\net9.0\34DS.pdb
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.AssemblyInfoInputs.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.AssemblyInfo.cs
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.csproj.CoreCompileInputs.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.sourcelink.json
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\refint\34DS.dll
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.pdb
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\34DS.genruntimeconfig.cache
+C:\Users\Nitro V15\Desktop\DPL_2025\34DS\obj\Debug\net9.0\ref\34DS.dll
