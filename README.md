@@ -1,85 +1,54 @@
-# 📱 DPL2025 - Desenvolvimento de Aplicativo
+[Inglês](README_en.md)
+# 📘 Tarefas de Desenvolvimento de Aplicativo
 
-![GitHub repo size](https://img.shields.io/github/repo-size/viniciusamaralvilela/DPL_2025?color=blue&style=for-the-badge)
-![GitHub last commit](https://img.shields.io/github/last-commit/viniciusamaralvilela/DPL_2025?color=green&style=for-the-badge)
-![GitHub license](https://img.shields.io/github/license/viniciusamaralvilela/DPL_2025?color=yellow&style=for-the-badge)
+### 🏫 Escola/Curso:
+> ETE "FMC" - Desenvolvimento de Sistemas
 
-> 📁 Repositório da disciplina **Desenvolvimento de Aplicativo – 2025**  
-> 💻 Projetos práticos utilizando **Visual Studio** e linguagem **C#**, com foco em lógica de programação, interfaces gráficas e construção de aplicações desktop (Windows Forms).
-
----
-
-## 📌 O que é este projeto?
-
-Este repositório reúne os exercícios e aplicações desenvolvidos durante a disciplina DPL em 2025.  
-São exemplos de projetos desktop com foco em interface gráfica, manipulação de arquivos, eventos de botões, e organização em múltiplos formulários.
-
-Ideal para quem está aprendendo a desenvolver **aplicações desktop em C# com Windows Forms**!
+### 👨‍🏫 Professor(a):
+> Daniel Mosca
+- 🔗 [Linkedin]([https://github.com/joseandery](https://www.linkedin.com/in/daniel-albino-mosca-rodrigues-20a290102/))
 
 ---
 
-## 🛠️ Tecnologias Utilizadas
+## 🚀 Linguagens Utilizadas
 
-- 🔹 **Visual Studio 2022 ou superior** — ambiente de desenvolvimento  
-- 🔹 **Linguagem C#** — para programação de interfaces e lógica  
-- 🔹 **Windows Forms (WinForms)** — criação de aplicações desktop  
-- 🔹 **.NET Framework** — base de execução das aplicações
+- ✅ C#
 
 ---
 
-## 💻 Como instalar e usar?
+## 🧪 Ambientes e Ferramentas
 
-### ⚙️ Pré-requisitos
-
-- Visual Studio instalado (com suporte a .NET e C#)  
-- Git instalado (opcional)
+- ✅ Visual Studio Code
+- ✅ Visual Studio Comminity
+- ✅ WinForms
+- ✅ Unity (Projetos no meu Github)
 
 ---
 
-## 🧪 Estrutura do Projeto
+## 🗂️ Estrutura do Projeto
 
-```
-📁 LPR2025
- ┣ 📂 Diario
- ┣ 📂 Hash
- ┣ 📂 telalogin
- ┣ 📂 Terraria
- ┗ 📜 README.md
+```bash
+📁 DPL_2025
+├── 📁 34DS
+├── 📁 CorTerminal
+├── 📁 Diario
+├── 📁 NPrimo
+├── 📁 telalogin
+├── 📁 Terraria
+└── 📄 README.md 
 ```
 
-Cada pasta contém os exercícios e explicações propostas durante as aulas.
+> Cada tarefa está separada em sua própria pasta, com seu respectivo código fonte.
 
 ---
 
-## ▶️ Como usar?
+## 👤 Autor
 
-1. Abra o código da aula desejada.  
-2. Compile com seu editor favorito.  
-3. Execute e estude os resultados!  
-4. Use como base para seus próprios projetos! 💡
+**Vinícius Amaral Vilela**  
+🔗 [LinkedIn](https://www.linkedin.com/in/vin%C3%ADcius-amaral-vilela-b57549362?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
-## 🤝 Contribuindo
+## 💡 Licença
 
-Quer sugerir melhorias, corrigir algo ou adicionar conteúdo?
-
-1. Faça um **fork** do repositório.  
-2. Crie uma branch com suas mudanças:
-   ```bash
-   git checkout -b minha-mudanca
-   ```
-3. Faça o **commit**:
-   ```bash
-   git commit -m "Adiciona novo exercício"
-   ```
-4. Envie um **pull request** 🤝
-
----
-
-## 🧑‍🏫 Autor
-
-Desenvolvido por **Vinícius Amaral Vilela**  
-📬 [Perfil GitHub](https://github.com/viniciusamaralvilela)
-
-
+Este projeto é de uso educacional. Sinta-se livre para estudar, modificar e compartilhar com os devidos créditos. 👩‍💻👨‍💻
