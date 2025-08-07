@@ -6,7 +6,7 @@
 
 ### 👨‍🏫 Professor(a):
 > Daniel Mosca
-- 🔗 [Linkedin]([https://github.com/joseandery](https://www.linkedin.com/in/daniel-albino-mosca-rodrigues-20a290102/))
+- 🔗 [Linkedin]((https://www.linkedin.com/in/daniel-albino-mosca-rodrigues-20a290102/))
 
 ---
 
